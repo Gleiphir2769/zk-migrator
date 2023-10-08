@@ -1,0 +1,37 @@
+# Build output
+target/
+out/
+
+# IDE files
+.idea/
+*.iml
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Maven files
+maven.log
+.settings/
+dependency-reduced-pom.xml
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Eclipse files
+.project
+.classpath
+
+zkData
+
+*.tar.gz
+*.tgz
+
+helm/
+
+.DS_Store
